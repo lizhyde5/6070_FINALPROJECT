@@ -1,4 +1,6 @@
-# GROUP 2: 6070 MACHINE LEARNING FINAL PROJECT
+# 6070 MACHINE LEARNING FINAL PROJECT
+## Group 2: Carla Fera, Elizabeth Hyde, Vincent Chen
+
 # Societal Strain of COVID-19
 
 
