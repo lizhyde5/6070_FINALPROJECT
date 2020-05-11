@@ -1,5 +1,5 @@
-# 6070_FINALPROJECT
-# Social Strain of COVID-19
+# GROUP 3: 6070 MACHINE LEARNING FINAL PROJECT
+# Societal Strain of COVID-19
 
 
 The project explores the economic and social strain of COVID-19 and seeks to determine where the pandemic will have the most significant lasting impact on society. The data was integrated from several sources to build a model to predict where the COVID-19 outbreak will cause the most social strain or chaos.
